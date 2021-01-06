@@ -9,6 +9,8 @@ http://github.com - automatic!
 
 ## smaller header
 
+![myImg](https://photographylife.com/wp-content/uploads/2017/05/img013-1200-copy.jpg)
+
 *This text will be italic*
 
 As Kanye West said:
