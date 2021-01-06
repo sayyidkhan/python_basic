@@ -1,5 +1,8 @@
 # main header
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 ## smaller header
 
 *This text will be italic*
