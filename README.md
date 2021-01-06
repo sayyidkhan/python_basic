@@ -2,7 +2,7 @@
 
 http://github.com - automatic!
 [GitHub](http://github.com)
-[mytext]()
+[mytext](http://google.com)
 
 ## smaller header
 
